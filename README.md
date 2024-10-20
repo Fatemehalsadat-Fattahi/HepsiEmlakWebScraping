@@ -32,7 +32,7 @@ This is a Scrapy-based project designed to scrape rental apartment data from **h
     ```
 2. Navigate to the project directory:
     ```bash
-    cd hepsiemlak-scrapy-project
+    cd hepsiemlak_scraper
     ```
 3. Install the required Python packages:
     ```bash
