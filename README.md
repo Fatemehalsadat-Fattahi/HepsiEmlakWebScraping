@@ -28,7 +28,7 @@ This is a Scrapy-based project designed to scrape rental apartment data from **h
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/hepsiemlak-scrapy-project.git
+    git clone https://github.com/Fatemehalsadat-Fattahi/HepsiEmlakWebScraping.git
     ```
 2. Navigate to the project directory:
     ```bash
